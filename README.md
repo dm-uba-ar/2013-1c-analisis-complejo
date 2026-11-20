@@ -1,10 +1,5 @@
 # Análisis Complejo — Primer cuatrimestre de 2013
 
-## Equipo docente
-
-- **Clases teóricas:** Daniel Carando
-- **Clases prácticas:** Mariana Prieto, Maximiliano Camporino, Mariano Merzbacher
-
 ## Prácticas
 
 - [Práctica 1: El plano complejo - Homografías](AnCmp2013_prac1.pdf)
